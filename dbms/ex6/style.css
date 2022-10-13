@@ -1,0 +1,22 @@
+body {
+    margin: 5%
+}
+
+h1 {
+    text-align: center;
+}
+
+.txtin {
+    display: block
+}
+
+label {
+    display: inline-block;
+    width: 10em;
+    height: 2em
+}
+
+table, th, td {
+    border-style: solid;
+    border-width: 1px;
+}
